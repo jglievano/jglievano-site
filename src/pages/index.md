@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great software engineering with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great software engineering with a conscience
 subheading: Support sustainable development while enjoying your code
