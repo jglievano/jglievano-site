@@ -2,20 +2,20 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great software engineering with a conscience
+subheading: Support sustainable development while enjoying your code
 mainpitch:
-  title: Why Kaldi
+  title: Why me?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I am a Software Engineer for everyone who believes that great software
+    engineers shouldn't just do great software, they should be great too. I
+    source all my code directly from small scale sustainable iterations and
+    make sure part of the utility is reinvested for team work and community.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Gabriel Li&eacute;vano is a software engineer with a diverse background in
+  video games, interactivity, tools and infrastructure and product
+  infrastructure. I take software development, testing and release seriously
+  and I'm glad to pass that knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
